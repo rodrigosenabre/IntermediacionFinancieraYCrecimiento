@@ -7,4 +7,4 @@ Por último, la base que dice cajeros tiene mla informacion de cantidad de cajer
 
 Es mi primer proyecto en R y en el momento me pareció más cómodo trabajarlo así por la presencia de algunos NULL, por otro lado, están solo los datos de 2017 que fueron los que consideré para mi analisis, el resto de la serie se consigue en la página del World Bank.
  
-![(argresaltadoBancarizacioncont.png)]
+![(C:\Users\Ignacio\Documents\GitHub\IntermediacionFinanciera\argresaltadoBancarizacioncont.png)]
